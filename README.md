@@ -1,5 +1,5 @@
 ### Project information
-===
+---------
 
 
 Reminders: 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 behave
 ```
 
-===
+---------
 
 To do list:
 - Improve readme
