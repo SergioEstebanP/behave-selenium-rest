@@ -15,7 +15,7 @@ bash -f /venv/scripts/activate.sh # activate.bat for windows or Activate.ps1 for
 ```
 pip install -r requirements.txt
 ```
-- To run the feature:
+- To run the feature type the following command:
 ```
 behave
 ```
