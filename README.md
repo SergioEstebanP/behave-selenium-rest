@@ -1,8 +1,8 @@
-### Project information
+## Project information
 ---------
 
+### 1. Requirements
 
-Reminders: 
 - Pytyhon 3.7.4 installed in the computer
 - The api it's a rest api local which can be deployed from this source: https://github.com/SergioEstebanP/dummy-rest-api
 - You need to initialize the proper virtual env depending on your SO. Follow the next commands:
@@ -21,6 +21,8 @@ behave
 ```
 
 ---------
+
+### 2. Improvements
 
 To do list:
 - Improve readme
