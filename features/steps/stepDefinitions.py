@@ -12,7 +12,9 @@ def get_info_from_api(context, api_url):
 def search_results_in_browser(context, search_engine):
     driver = set_browser()
     if search_engine == "google":
-        search_engine_url = "http://www.google.come"
+        search_engine_url = "https://www.google.com"
+    elif search_engine == "bing":
+        search_engine_url = "https://www.bing.com"
     for pet_name in context.pet_names:
         search_element(pet_name, driver, search_engine_url)
         

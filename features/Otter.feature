@@ -7,4 +7,4 @@ Feature: As a consuemr I want to search some pets in google from an API
 
         Examples:
             | api_url                    | search_engine |
-            | http://localhost:3000/dogs | google        |
+            | http://localhost:3000/dogs | bing          |
