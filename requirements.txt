@@ -1,0 +1,10 @@
+# frameweork for BDD automation
+behave
+
+# tools for frontend and backend testin
+selenium
+requests
+json
+
+# linter for python 
+pylint
