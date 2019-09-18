@@ -26,5 +26,3 @@ behave
 
 To do list:
 - Improve readme
-- better managemetn and project structure
-- add webdriver to the local files
